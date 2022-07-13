@@ -10,8 +10,10 @@ A combination portfolio, personal documentation, and blog.
 
 Resume
 ------
+..
+   My resume :download:`pdf <../images/salbertson.pdf>`
 
-My resume :download:`pdf <../images/salbertson.pdf>`
+:doc:`resume`
 
 Projects
 --------
