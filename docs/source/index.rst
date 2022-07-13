@@ -11,16 +11,17 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :hidden:
+   :caption: maintoc
 
-   projects/index
+   /projects/index
 
 
 
+..
+   Indices and tables
+   ==================
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`
