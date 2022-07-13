@@ -6,15 +6,29 @@
 Hello, you've reached Shawn Albertson
 =====================================
 
-Contents
+A combination portfolio, personal documentation, and blog.
+
+Projects
 --------
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: maintoc
+   :caption: projects
 
-   /projects/index
+   /projects/ro
+   /projects/uri
+
+
+Reference
+---------
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: reference
+
+   /reference/hydro
 
 
 
