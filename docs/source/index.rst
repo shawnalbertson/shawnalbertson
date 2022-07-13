@@ -8,6 +8,11 @@ Hello, you've reached Shawn Albertson
 
 A combination portfolio, personal documentation, and blog.
 
+Resume
+------
+
+My resume :download:`pdf <../images/salbertson.pdf>`
+
 Projects
 --------
 
