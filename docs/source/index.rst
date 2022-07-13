@@ -35,7 +35,15 @@ Reference
 
    /reference/hydro
 
+Random
+------
 
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: random
+
+   climbing
 
 ..
    Indices and tables
