@@ -15,14 +15,13 @@ continuously and use as a personal reference for newly acquired knowledge.
 Portfolio
 ---------
 
-The majority of the work which I am most proud have has been done at academic institutions, namely during my bachelors at Olin College of Engineering and my masters at University of Rhode Island.
+The majority of the work which I am most proud have has been done at academic institutions, namely during my M.S. in Ocean Engineering at University of Rhode Island my B.S. in Mechanical Engineering at Olin College of Engineering.
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: portfolio
-   /portfolio/olin
-   /portfolio/uri
+   /portfolio/index
 
 Reference
 ---------
