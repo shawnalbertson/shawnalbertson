@@ -12,7 +12,7 @@ Please click the link if you would like to learn more!
    :hidden:
    :caption: uri
 
-   portfolio/uri/research
+   /portfolio/uri/research
 
 
 Olin
@@ -26,9 +26,9 @@ I also took a lot of pride in my :doc:`/olin/leadership` roles in which I could 
    :hidden:
    :caption: olin
 
-   portfolio/olin-folder/research
-   portfolio/olin-folder/projects
-   portfolio/olin-folder/leadership
+   /portfolio/olin/research
+   /portfolio/olin/projects
+   /portfolio/olin/leadership
 
 
 Community PPE
