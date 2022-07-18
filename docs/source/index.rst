@@ -19,7 +19,7 @@ The majority of the work which I am most proud have has been done at academic in
 
 .. toctree::
    :caption: portfolio
-   portfolio/olin
+   /portfolio/olin
 
 Reference
 ---------
