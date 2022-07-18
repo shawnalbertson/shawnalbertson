@@ -18,10 +18,10 @@ Portfolio
 The majority of the work which I am most proud have has been done at academic institutions, namely during my M.S. in Ocean Engineering at University of Rhode Island my B.S. in Mechanical Engineering at Olin College of Engineering.
 
 .. toctree::
-   :maxdepth: 3
    :hidden:
    :caption: portfolio
-   /portfolio/index
+   :glob:
+   /portfolio/*
 
 Reference
 ---------
