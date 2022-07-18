@@ -21,7 +21,7 @@ The majority of the work which I am most proud have has been done at academic in
    :hidden:
    :caption: portfolio
    :glob:
-   /portfolio/*
+   portfolio/*
 
 Reference
 ---------
