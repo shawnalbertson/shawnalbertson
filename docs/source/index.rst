@@ -15,7 +15,7 @@ This is a living reference which I update continuously with newly acquired knowl
 .. toctree::
    :hidden:
 
-   portfolio
+   /portfolio/index
 
 ..
    Portfolio
