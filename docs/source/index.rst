@@ -6,7 +6,19 @@
 Hello, you've reached Shawn Albertson
 =====================================
 
-A combination portfolio, personal documentation, and blog.
+A combined portfolio and personal documentation. This is a live document which I plan to update 
+continuously and use as a personal reference for newly acquired knowledge. 
+
+Olin College
+------------
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: olin
+
+   /olin/research
+   /olin/projects
+   /olin/leadership
 
 Resume
 ------
