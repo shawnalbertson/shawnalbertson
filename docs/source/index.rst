@@ -11,6 +11,16 @@ continuously and use as a personal reference for newly acquired knowledge.
 
 URI
 ---
+I am currently working towards a M.S. in Ocean Engineering at the University of Rhode Island. 
+My current :doc:`/uri/research` is incredibly exciting. 
+I am working on real time phase resolved water wave models to be used for the active control and stabilization of floating offshore wind turbines. 
+Please click the link if you would like to learn more!
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: uri
+
+   /uri/research
 
 Olin College of Engineering
 ---------------------------

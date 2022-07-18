@@ -1,5 +1,5 @@
-Research at Olin College
-========================
+Research
+========
 
 Olin College Aquaculture Profiler (OCAP)
 ----------------------------------------
