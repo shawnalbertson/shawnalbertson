@@ -9,12 +9,16 @@ Hello, you've reached Shawn Albertson
 A combined portfolio and personal documentation. This is a live document which I plan to update 
 continuously and use as a personal reference for newly acquired knowledge.
 
+:doc:`resume`
+-------------
+
 URI
 ---
 I am currently working towards a M.S. in Ocean Engineering at the University of Rhode Island. 
 My current :doc:`/uri/research` is incredibly exciting. 
 I am working on real time phase resolved water wave models to be used for the active control and stabilization of floating offshore wind turbines. 
 Please click the link if you would like to learn more!
+
 .. toctree::
    :maxdepth: 2
    :hidden:
@@ -41,23 +45,19 @@ I also took a lot of pride in my :doc:`/olin/leadership` roles in which I could 
 
 
 
-Resume
-------
+
+
 ..
-   My resume :download:`pdf <../images/salbertson.pdf>`
+   Projects
+   --------
 
-:doc:`resume`
+   .. toctree::
+      :maxdepth: 2
+      :hidden:
+      :caption: projects
 
-Projects
---------
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: projects
-
-   /projects/ro
-   /projects/uri
+      /projects/ro
+      /projects/uri
 
 
 Reference
