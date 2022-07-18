@@ -9,13 +9,16 @@ Hi, you've reached Shawn Albertson
 A combined portfolio and personal documentation. 
 This is a living reference which I update continuously with newly acquired knowledge.
 
-:doc:`resume`
--------------
+..
+   :doc:`resume`
+   -------------
 
 .. toctree::
    :hidden:
 
+   resume
    /portfolio/index
+   /reference/index
 
 ..
    Portfolio
