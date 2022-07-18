@@ -3,47 +3,53 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Hello, you've reached Shawn Albertson
-=====================================
+Hi, you've reached Shawn Albertson
+==================================
 
-A combined portfolio and personal documentation. This is a live document which I plan to update 
-continuously and use as a personal reference for newly acquired knowledge.
+A combined portfolio and personal documentation. 
+This is a living reference which I update continuously with newly acquired knowledge.
 
 :doc:`resume`
 -------------
 
-Portfolio
----------
-
-The majority of the work which I am most proud have has been done at academic institutions, namely during my M.S. in Ocean Engineering at University of Rhode Island my B.S. in Mechanical Engineering at Olin College of Engineering.
-
 .. toctree::
-   :caption: portfolio
    :hidden:
 
-   /portfolio/olin-folder/research
-   /portfolio/olin-folder/projects
-   /portfolio/olin-folder/research
+   portfolio
 
-Reference
----------
+..
+   Portfolio
+   ---------
 
-.. toctree::
-   :maxdepth: 3
-   :hidden:
-   :caption: reference
+   The majority of the work which I am most proud have has been done at academic institutions, namely during my M.S. in Ocean Engineering at University of Rhode Island my B.S. in Mechanical Engineering at Olin College of Engineering.
 
-   /reference/hydro
+   .. toctree::
+      :caption: portfolio
+      :hidden:
 
-Random
-------
+      /portfolio/olin-folder/research
+      /portfolio/olin-folder/projects
+      /portfolio/olin-folder/research
 
-.. toctree::
-   :maxdepth: 3
-   :hidden:
-   :caption: random
+   Reference
+   ---------
 
-   climbing
+   .. toctree::
+      :maxdepth: 3
+      :hidden:
+      :caption: reference
+
+      /reference/hydro
+
+   Random
+   ------
+
+   .. toctree::
+      :maxdepth: 3
+      :hidden:
+      :caption: random
+
+      climbing
 
 ..
    Indices and tables
