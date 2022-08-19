@@ -3,11 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Hi, you've reached Shawn Albertson
-==================================
+Shawn Albertson
+===============
 
-A combined portfolio and personal documentation. 
-This is a living reference which I update continuously with newly acquired knowledge.
+Ocean Engineer based in the northeastern United States.
 
 ..
    :doc:`resume`
@@ -18,7 +17,6 @@ This is a living reference which I update continuously with newly acquired knowl
 
    resume
    /portfolio/index
-   /reference/index
 
 ..
    Portfolio
