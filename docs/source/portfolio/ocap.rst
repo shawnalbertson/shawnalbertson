@@ -1,4 +1,4 @@
-Olin College Aquaculture Profiler (OCAP)
+Marine Robotics Research
 ========================================
 
 During the summer of 2021 I worked on research with Olin prof. Jeff Dusek on a moored profiler for finfish aquaculture installations. The goal of the project was to develop a robotic system which could be deployed on floating finfish cages and used to assess water quality and fish health. I joined into the project as an older student and during the early stages of the project's development. This allowed me to both mentor younger students and help shape the direction of the project itself. 
