@@ -12,6 +12,11 @@ Phone: 207-975-6336
 
 Email: shawnalbertson16@gmail.com
 
+.. image:: /images/headshot.png
+   :width: 600
+
+Engineering
+-----------
 
 .. toctree::
    :maxdepth: 2
@@ -28,7 +33,19 @@ Email: shawnalbertson16@gmail.com
    /portfolio/gis
    /portfolio/hydrostaticHull
 
-words here
+Additional Experiences
+----------------------
+I do other things too
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Additional Experiences
+   /additional/fishing
+   /additional/gapYear
+
+Leadership
+----------
+I am a leader baby
 
 .. toctree::
    :maxdepth: 2
@@ -36,14 +53,7 @@ words here
    :caption: Leadership
    /leadership/leadership
 
-here too
 
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Additional Experiences
-   /additional/fishing
-   /additional/gapYear
 
 
 ..
