@@ -1,4 +1,4 @@
-Senior Capstone
+CT Intercom
 =======================================
 
 I was the sole Mechanical Engineer on a team tasked with improving intercom systems on CT scan machines for GE Healthcare. I took on two main tasks.

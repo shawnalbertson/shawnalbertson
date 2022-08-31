@@ -6,9 +6,10 @@
 Shawn Albertson
 ===============
 
-Mechanical/ Ocean Engineering
+Mechanical/ Ocean Engineer
 
 Phone: 207-975-6336
+
 Email: shawnalbertson16@gmail.com
 
 Engineering
@@ -41,7 +42,7 @@ Additional Experiences
    /additional/fishing
    /additional/gapYear
 
-   
+
 ..
    Portfolio
    ---------

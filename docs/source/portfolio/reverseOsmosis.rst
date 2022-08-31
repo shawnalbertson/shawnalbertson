@@ -3,13 +3,13 @@ Reverse Osmosis
 
 During the summer of 2019 I worked with a professor and a classmate at Olin College to design, build, and validate a system to study reverse osmosis (RO) desalination processes.
 
-.. image:: images/ro/system_crop.png
+.. image:: /images/ro/system_crop.png
     :width: 500
     :align: center
 
 Central to the RO process is the containment of high pressures to force salt water to pass through a semi-permeable membrane. The vessel which contains this process is called the flow cell. The design and manufacture of the flow cell was a focus of our work.
 
-.. image:: images/ro/ro_diagram.png
+.. image:: /images/ro/ro_diagram.png
     :width: 500
     :align: center
 
@@ -23,23 +23,23 @@ We considered a range of materials and constructions and checked each in SOLIDWO
 
 We embraced the challenge of machining the 316 SS in house. During the process I chose tooling and programmed the CNC mill. I also made the drawings below for machining the first setup.
 
-.. image:: images/ro/feed.png
+.. image:: /images/ro/feed.png
     :width: 500
     :align: center
 
-.. image:: images/ro/permeate.png
+.. image:: /images/ro/permeate.png
     :width: 500
     :align: center
 
-.. image:: images/ro/machine0.JPG
+.. image:: /images/ro/machine0.JPG
     :width: 500
     :align: center
 
-.. image:: images/ro/machine1.JPG
+.. image:: /images/ro/machine1.JPG
     :width: 500
     :align: center
 
-.. image:: images/ro/machine2.JPG
+.. image:: /images/ro/machine2.JPG
     :width: 500
     :align: center
 

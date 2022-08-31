@@ -3,26 +3,26 @@ BAJA
 
 Olin BAJA SAE - Team Leadership
 
-.. image:: images/baja/seat-mold.png
+.. image:: /images/baja/seat-mold.png
     :width: 500
     :align: center
 
-.. image:: images/baja/seat-finished.png
+.. image:: /images/baja/seat-finished.png
     :width: 500
     :align: center
 
-.. image:: images/baja/gear.png
+.. image:: /images/baja/gear.png
     :width: 500
     :align: center
 
-.. image:: images/baja/finished_gear.png
+.. image:: /images/baja/finished_gear.png
     :width: 500
     :align: center
 
-.. image:: images/baja/welding-jigs.png
+.. image:: /images/baja/welding-jigs.png
     :width: 500
     :align: center
 
-.. image:: images/baja/helping-1.png
+.. image:: /images/baja/helping-1.png
     :width: 500
     :align: center
