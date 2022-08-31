@@ -14,6 +14,7 @@ Central to the RO process is the containment of high pressures to force salt wat
     :align: center
 
 The flow cell had to:
+
 * Contain salt water at 1000 psi without leaking
 * Resist corrosion
 * Maximize surface area (2200 mm² ± 10%)
