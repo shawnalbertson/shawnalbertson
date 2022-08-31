@@ -10,7 +10,7 @@ My masters thesis is aimed at answering two main questions:
 
 While the wording of the title is general for the control of 'floating bodies', the work is funded by the Department of Energy with floating offshore wind turbines (FOWT) in mind. Because floating turbines are subject to oscillations that result from wave loading (among other things), the use of a wave forecast to stabilize a float has the opportunity to greatly increase the lifetime of a FOWT. 
 
-The two questions each come with their own set of challenges. To answer the first, I have been able to use the URI Narragansett Bay Campus wave tank to create and measure series of irregular waves. I have focused on understanding and implementing deterministic linear wave models developed by :cite:t:`grilli11` which is centered around a spatio-temporal free surface decomposition into linear wave components. Using a deep water dispersion relation we can propogate the surface forward in time to come up with a phase resolved wave forecast. We use stationary capacitive wave gauges which penetrate the free surface to take wave measurements. Data is collected and buffered by a National Instruments DAQ and processed locally on the PC using our algorithm. All hardware control and data processing is done in MATLAB. To learn more about the process, visit our `documentation page`_.
+The two questions each come with their own set of challenges. To answer the first, I have been able to use the URI Narragansett Bay Campus wave tank to create and measure series of irregular waves. I have focused on understanding and implementing deterministic linear wave models developed by Grilli et. al. :cite:p:`grilli11` which is centered around a spatio-temporal free surface decomposition into linear wave components. Using a deep water dispersion relation we can propogate the surface forward in time to come up with a phase resolved wave forecast. We use stationary capacitive wave gauges which penetrate the free surface to take wave measurements. Data is collected and buffered by a National Instruments DAQ and processed locally on the PC using our algorithm. All hardware control and data processing is done in MATLAB. To learn more about the process, visit our `documentation page`_.
 
 .. _documentation page: https://py-wrp.readthedocs.io/en/latest/overview.html
 
@@ -19,4 +19,4 @@ To answer the second question I have been working with a barge model which had b
 My work will be presented at the NAWEA/ WindTECH conference at the University of Delaware in mid-september.
 
 
-.. bibliography::
+.. footbibliography::
