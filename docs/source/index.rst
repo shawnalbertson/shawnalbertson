@@ -34,7 +34,7 @@ words here
    :maxdepth: 2
    :hidden:
    :caption: Leadership
-   /leadership
+   /leadership/leadership
 
 here too
 
