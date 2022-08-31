@@ -1,2 +1,2 @@
-GIS Visualization tool
+GIS (Python)
 ======================

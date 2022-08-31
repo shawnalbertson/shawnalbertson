@@ -12,12 +12,12 @@ Phone: 207-975-6336
 
 Email: shawnalbertson16@gmail.com
 
-Engineering
------------
 
 .. toctree::
+   :maxdepth: 2
    :hidden:
-
+   :caption: Engineering
+   
    resume
    /portfolio/mastersResearch
    /portfolio/ocap
@@ -28,17 +28,19 @@ Engineering
    /portfolio/gis
    /portfolio/hydrostaticHull
 
-Leadership
-----------
+
 
 .. toctree::
+   :maxdepth: 2
    :hidden:
+   :caption: Leadership
    /leadership
 
-Additional Experiences
-----------------------
+
 .. toctree::
+   :maxdepth: 2
    :hidden:
+   :caption: Additional Experiences
    /additional/fishing
    /additional/gapYear
 
