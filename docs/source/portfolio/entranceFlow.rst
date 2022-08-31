@@ -6,3 +6,5 @@ I worked with two other students to model the entrance region of flow into a tub
 .. _implemented in MATLAB: https://github.com/shawnalbertson/random/blob/main/entranceFlow.m
 
 .. image:: /images/flow/smoke.png
+    :width: 500
+    :align: center

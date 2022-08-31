@@ -1,6 +1,6 @@
 Boat motions
 ================================
-**`Link to report`_**.
+`Link to report`_.
 
 .. _Link to report: https://github.com/shawnalbertson/PDO-kayak/blob/master/shawn-pdo-final.ipynb
 
