@@ -1,8 +1,3 @@
-.. shawnalbertson documentation master file, created by
-   sphinx-quickstart on Mon Jun 27 18:14:54 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Shawn Albertson
 ===============
 
@@ -12,7 +7,7 @@ Phone: 207-975-6336
 
 Email: shawnalbertson16@gmail.com
 
-.. image:: images/headshot.png
+.. image:: ../images/headshot.png
    :width: 600
 
 Engineering
