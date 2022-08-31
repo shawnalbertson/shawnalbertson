@@ -12,7 +12,7 @@ Phone: 207-975-6336
 
 Email: shawnalbertson16@gmail.com
 
-.. image:: /images/headshot.png
+.. image:: images/headshot.png
    :width: 600
 
 Engineering
@@ -36,6 +36,7 @@ Engineering
 Additional Experiences
 ----------------------
 I do other things too
+
 .. toctree::
    :maxdepth: 2
    :hidden:
