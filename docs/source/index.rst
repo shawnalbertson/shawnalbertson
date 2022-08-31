@@ -2,6 +2,7 @@ Shawn Albertson
 ===============
 
 **M.S. Ocean Engineering**, University of Rhode Island, current
+
 **B.S. Mechanical Engineering**, Olin College, 2021
 
 
