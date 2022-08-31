@@ -17,7 +17,7 @@ Email: shawnalbertson16@gmail.com
    :maxdepth: 2
    :hidden:
    :caption: Engineering
-   
+
    resume
    /portfolio/mastersResearch
    /portfolio/ocap
@@ -28,7 +28,7 @@ Email: shawnalbertson16@gmail.com
    /portfolio/gis
    /portfolio/hydrostaticHull
 
-
+words here
 
 .. toctree::
    :maxdepth: 2
@@ -36,6 +36,7 @@ Email: shawnalbertson16@gmail.com
    :caption: Leadership
    /leadership
 
+here too
 
 .. toctree::
    :maxdepth: 2
