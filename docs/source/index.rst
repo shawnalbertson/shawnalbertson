@@ -26,6 +26,8 @@ Engineering
    /portfolio/entranceFlow
    /portfolio/gis
    /portfolio/hydrostaticHull
+   /portfolio/blockus
+   /portfolio/machining
 
 Additional Experiences
 ----------------------
