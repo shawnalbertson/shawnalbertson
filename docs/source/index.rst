@@ -1,8 +1,9 @@
 Shawn Albertson
 ===============
 
-Mechanical/ Ocean Engineer
---------------------------
+**M.S. Ocean Engineering**, University of Rhode Island, current
+**B.S. Mechanical Engineering**, Olin College, 2021
+
 
 shawnalbertson16@gmail.com | 207-975-6336
 
@@ -29,25 +30,22 @@ Engineering
    /portfolio/blockus
    /portfolio/machining
 
-Additional Experiences
-----------------------
-I do other things too
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Additional Experiences
+   
    /additional/fishing
    /additional/gapYear
 
-Leadership
-----------
-I am a leader baby
+
 
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Leadership
+
    /leadership/leadership
 
 
