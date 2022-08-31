@@ -6,18 +6,42 @@
 Shawn Albertson
 ===============
 
-Ocean Engineer based in the northeastern United States.
+Mechanical/ Ocean Engineering
 
-..
-   :doc:`resume`
-   -------------
+Phone: 207-975-6336
+Email: shawnalbertson16@gmail.com
+
+Engineering
+-----------
 
 .. toctree::
    :hidden:
 
    resume
-   /portfolio/index
+   /portfolio/mastersResearch
+   /portfolio/ocap
+   /portfolio/scope
+   /portfolio/baja
+   /portfolio/reverseOsmosis
+   /portfolio/entranceFlow
+   /portfolio/gis
+   /portfolio/hydrostaticHull
 
+Leadership
+----------
+
+.. toctree::
+   :hidden:
+   /leadership
+
+Additional Experiences
+----------------------
+.. toctree::
+   :hidden:
+   /additional/fishing
+   /additional/gapYear
+
+   
 ..
    Portfolio
    ---------
