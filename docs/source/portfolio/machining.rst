@@ -9,10 +9,16 @@ While it took a couple tries to figure out single point threading on the lathe, 
     :width: 500
     :align: center
 
+|
+
 .. image:: /images/machining/parts-complete.JPG
     :width: 500
     :align: center
 
+|
+
 .. image:: /images/machining/parts-assembled.png
     :width: 500
     :align: center
+
+|

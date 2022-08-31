@@ -1,9 +1,9 @@
 Shawn Albertson
 ===============
 
-**M.S. Ocean Engineering**, University of Rhode Island, current
+**M.S. Ocean Engineering**, University of Rhode Island, *Current*
 
-**B.S. Mechanical Engineering**, Olin College, 2021
+**B.S. Mechanical Engineering**, Olin College, *2021*
 
 
 shawnalbertson16@gmail.com | 207-975-6336
@@ -14,11 +14,16 @@ shawnalbertson16@gmail.com | 207-975-6336
 I am currently working toward a Masters in Ocean Engineering at University of Rhode Island. My research is to develop a phase-resolved real time water wave forecasting tool to use for advanced control of floating systems. I am personally involved with developing the software, electrical, and mechanical tools which uses deterministic wave forecasts to intelligently drive an moving ballast system to stabilize the float. I will complete my work at URI in early 2022 and am seeking employment after I am done.
 
 .. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   resume
+
+.. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Engineering
 
-   resume
    /portfolio/mastersResearch
    /portfolio/ocap
    /portfolio/scope

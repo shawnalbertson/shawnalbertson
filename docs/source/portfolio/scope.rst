@@ -1,7 +1,7 @@
 CT Scan Intercom
 =======================================
 
-I was the sole Mechanical Engineer on a team tasked with improving intercom systems on CT scan machines for GE Healthcare. I took on two main tasks.
+I helped to improve the mechanical design of an intercom systems on CT scan machines for GE Healthcare. I took on two main tasks.
 
 1. Designed and prototyped a waterproof intercom enclosure 
 2. Evaluated the influence of mechanical vibration on electret microphones which are used on the CT gantry (the scanner itself)
@@ -18,6 +18,8 @@ After doing some research on how the problem of waterproofing microphones in per
     :width: 500
     :align: center
 
+|
+
 *Volume control*
 
 Potentiometers for volume control were integrated with an o-ring mounted directly against the front face of the intercom. A small recess in the intercom allowed the o-ring to sit and compress at 5% of the diameter. Since the part was getting 3D printed I was able to isolate the component and test multiple compression factors to balance feel and resistance of turning the knob with the ability to still resist fluid ingress. 
@@ -26,18 +28,25 @@ Potentiometers for volume control were integrated with an o-ring mounted directl
     :width: 500
     :align: center
 
+|
+
 *Speaker*
+
 Speaker integration posed a third design challenge. To solve this, I specified waterproof speakers with a plastic membrane and that was sealed to a foam ring on the perimeter. I mounted the foam ring to an elevated ridge on the intercom so that only the plastic membrane would be exposed to the exterior.
 
 .. image:: /images/scope/scim-speaker.png
     :width: 500
     :align: center
 
+|
+
 The fully assembled intercom including components can be seen below. To test the device, I spilled a full cup of water on it with a piece of paper inside and was happy to see that no water permeated. I also recorded audio recorded through the microphone to make sure that the acoustic vent and aperture hadn't created any resonance that would negatively affect the audio quality.  
 
 .. image:: /images/scope/scim-print.png
     :width: 500
     :align: center
+
+|
 
 My second task was to come up with a way to assess the effect of mechanical vibration on a microphone which is used in the CT gantry itself (the gantry is the large donut shaped device which actually spins the X-ray tube and detector). To do this, I developed a simple electrodynamic shaker to recreate vibrations seen on the gantry and evaluate the response of the signal recorded by the microphone. I did this working from home with minimal budget and access to only a 3D printer and simple electrical components. 
 
@@ -48,6 +57,8 @@ I designed the fixture in SOLIDWORKS so that it could be easily printed on a Pru
 .. image:: /images/scope/cad.png
     :width: 500
     :align: center
+
+|
 
 To recreate realistic vibrations, we tuned our system to mimic vibrations which were measured by GEHC on an actual CT scanner. RMS acceleration divided into third octave bins were used as a metric for comparing actual gantry vibrations with those made by our shaker. All data was analyzed in Python using `numpy`, `pandas`, and `matplotlib` libraries. I was able to show that at high frequencies, the vibrating microphone had noticeably higher energy peaks. This should justify an interest in decoupling electret microphones from mechanical vibration, especially using inexpensive methods such as foam, as a way to improve the audio quality of the intercom without overly technical or expensive approaches. 
 

@@ -11,14 +11,20 @@ It would start like this...
     :width: 500
     :align: center
 
+|
+
 And after a few turns look like this...
 
 .. image:: /images/blockus/mid-board.png
     :width: 500
     :align: center
 
+|
+
 where the blue player could see which pieces they have left by toggling the piece selection screen.
 
 .. image:: /images/blockus/piece-available.png
     :width: 500
     :align: center
+
+|

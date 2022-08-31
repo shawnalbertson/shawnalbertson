@@ -18,3 +18,5 @@ In 2017 I received my State of Maine Sea Kayak Guide license. I worked in this r
 .. image:: /images/kayak/view.JPG
     :width: 500
     :align: center
+
+|

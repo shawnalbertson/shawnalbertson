@@ -6,3 +6,5 @@ During the fall of 2019 I orchestrated Olin's non-official orientation trip. Thi
 .. image:: /images/outing/tents.jpg
     :width: 500
     :align: center
+
+|

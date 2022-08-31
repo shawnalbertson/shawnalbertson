@@ -8,3 +8,5 @@ I worked with two other students to model the entrance region of flow into a tub
 .. image:: /images/flow/smoke.png
     :width: 500
     :align: center
+
+|

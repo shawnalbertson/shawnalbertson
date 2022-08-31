@@ -24,6 +24,8 @@ In this position I also maintained the machine and made improvements such as bui
     :width: 500
     :align: center
 
+|
+
 Transport Phenomena
 -------------------
 For a course on fluid mechanics and heat flow, I held office hours to support students working through homework problems.

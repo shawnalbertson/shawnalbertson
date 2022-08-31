@@ -19,4 +19,4 @@ To answer the second question I have been working with a barge model which had b
 My work will be presented at the NAWEA/ WindTECH conference at the University of Delaware in mid-september.
 
 
-.. footbibliography::
+.. bibliography::

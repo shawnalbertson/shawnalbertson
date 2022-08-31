@@ -9,8 +9,12 @@ The two images below shows the result before and after applying the cloud mask. 
     :width: 500
     :align: center
 
+|
+
 .. image:: /images/gis/salinity_withCM.png
     :width: 500
     :align: center
+
+|
 
 The work began weeks before the start of the pandemic and transitioned into a remote style work setup after I had to move back to the U.S. 
