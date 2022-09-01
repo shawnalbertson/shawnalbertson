@@ -37,7 +37,7 @@ extensions = [
     'sphinxcontrib.bibtex',
 ]
 
-html_favicon = 'sa.png'
+html_favicon = 'sa.ico'
 
 bibtex_bibfiles = ['refs.bib']
 
