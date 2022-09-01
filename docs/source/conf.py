@@ -37,6 +37,8 @@ extensions = [
     'sphinxcontrib.bibtex',
 ]
 
+html_favicon = 'sa.png'
+
 bibtex_bibfiles = ['refs.bib']
 
 # Add any paths that contain templates here, relative to this directory.
