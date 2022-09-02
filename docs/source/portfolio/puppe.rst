@@ -5,31 +5,31 @@ During the PPE shortage at beginning of the pandemic I got involved with a commu
 
 |
 
-.. image:: /images/puppe/laser
+.. image:: /images/puppe/laser.JPG
     :width: 500
     :align: center
 
 |
 
-.. image:: /images/puppe/cut
+.. image:: /images/puppe/cut.JPG
     :width: 500
     :align: center
 
 |
 
-.. image:: /images/puppe/product
+.. image:: /images/puppe/product.JPG
     :width: 500
     :align: center
 
 |
 
-.. image:: /images/puppe/karla
+.. image:: /images/puppe/karla.JPG
     :width: 500
     :align: center
 
 |
 
-.. image:: /images/puppe/nigel
+.. image:: /images/puppe/nigel.JPG
     :width: 500
     :align: center
 
