@@ -1,4 +1,4 @@
-GIS Post-processing in Python
+GIS Post-processing
 ==============================
 
 During a semester abroad to the University of Edinburgh, Scotland, I worked for a professor who was interested in using neural networks to determine temperature and salinity of the ocean based on Sentinel-2 multi spectral satellite images. My task was to develop a tool which would take a processed GIS file (NN output) and filter out clouds which proved to confound the data. The work was done in Python using GDAL to load and interact with GeoTIFF files in an object-oriented manner.

@@ -1,5 +1,5 @@
-BAJA
-====
+BAJA SAE
+=========
 
 Olin BAJA SAE - Team Leadership
 
