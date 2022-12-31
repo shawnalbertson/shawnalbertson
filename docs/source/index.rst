@@ -11,7 +11,7 @@ shawnalbertson16@gmail.com | 207-975-6336
 .. image:: ../images/headshot.png
    :width: 300
 
-I am currently working towards a Masters in Ocean Engineering at University of Rhode Island. My research is to develop a phase-resolved real time water wave forecasting tool to use for advanced control of floating systems. I am personally involved with developing the software, electrical, and mechanical tools which uses deterministic wave forecasts to intelligently drive an moving ballast system to stabilize the float. I will complete my work at URI in January 2022 and am seeking employment starting at that time.
+I am currently working towards a Masters in Ocean Engineering at University of Rhode Island. My research is to develop a phase-resolved real time water wave forecasting tool to use for advanced control of floating systems. I am personally involved with developing the software, electrical, and mechanical tools which uses deterministic wave forecasts to intelligently drive an moving ballast system to stabilize the float. I will complete my work at URI in May 2023 and am seeking employment starting at that time.
 
 .. toctree::
    :maxdepth: 1
