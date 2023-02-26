@@ -1,5 +1,5 @@
 Resume
 ======
 
-.. image:: resume.pdf
+.. image:: albertson.pdf
     :align: center
