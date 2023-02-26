@@ -1,13 +1,8 @@
 Resume
 ======
 
-.. image:: resume.pdf
-    :align: center
+:download:`LINK TO PDF <albertson.pdf>`
 
-.. image:: ../images/albertson.pdf
-    :width: 300
+.. image:: albertson.png
     :align: center
-    
-    
-.. image:: ../images/headshot.png
-   :width: 300
+    :width: 600
