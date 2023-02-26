@@ -2,5 +2,5 @@ Resume
 ======
 
 
-.. image:: albertson.pdf
+.. image:: ../images/albertson.pdf
     :align: center
