@@ -3,14 +3,14 @@ Masters Research
 
 **Phase resolved water wave predictions for the active control of floating bodies**
 
-My masters thesis is aimed at answering two main questions:
+Image something floating in the middle of the ocean. It's probably experiencing a lot of sources of loading, not the least for which waves are responsible. For a floating offshore wind turbine (FOWT) especially, the motions that result are of high consequence, as they reduce the overall lifespan of the structure as well as its operational efficiency while its deployed. 
 
-1. How can we make phase resolved wave predictions on hardware that can be available in real time?
-2. How can those wave predictions be used to stabilize a floating body?
+To improve the control of floating structures and FOWTs, we should deploy sensing equipment that allows the structure to consider future disturbances instead of just operating on feedback. This matters even more in inherently irregular disturbances such as ocean surface gravity waves. I am focused on answering the question, **how can we actively control floating structures through the use of phase resolved wave forecasts?**
 
-While the wording of the title is general for the control of 'floating bodies', the work is funded by the Department of Energy with floating offshore wind turbines (FOWT) in mind. Because floating turbines are subject to oscillations that result from wave loading (among other things), the use of a wave forecast to stabilize a float has the opportunity to greatly increase the lifetime of a FOWT. 
+There are a number of challenges associated with this problem, and I have developed a system which can answer the full breadth of questions in a lab setting. I have implemented surface gravity wave measurement and forecating algorithms which run in real time on hardware for the use of our control system. This system is used to intelligently actuate a moving-ballast mechanism which I designed and fabricated. 
 
-The two questions each come with their own set of challenges. To answer the first, I have been able to use the URI Narragansett Bay Campus wave tank to create and measure series of irregular waves. I have focused on understanding and implementing deterministic linear wave models developed by Grilli et. al. which is centered around a spatio-temporal free surface decomposition into linear wave components. Using a deep water dispersion relation we can propogate the surface forward in time to come up with a phase resolved wave forecast. We use stationary capacitive wave gauges which penetrate the free surface to take wave measurements. Data is collected and buffered by a National Instruments DAQ and processed locally on the PC using our algorithm. All hardware control and data processing is done in MATLAB. To learn more about the process, visit our `documentation page`_.
+
+To test our ability to propagate surface wave forms in real time, I work with the URI Narragansett Bay Campus wave tank to create and measure series of irregular waves and actuate my floating structure which reduces the problem to 2D. To learn more about the process, visit our `documentation page`_.
 
 .. _documentation page: https://py-wrp.readthedocs.io/en/latest/overview.html
 
@@ -18,13 +18,12 @@ The two questions each come with their own set of challenges. To answer the firs
     :width: 500
     :align: center
 
-To answer the second question I have been working with a barge model which had been modeled previously by our lab. I designed and built a physical moving ballast system which is mounted to the surface of the model barge and can take commands from the wave model. I am currently working on developing a feedforward controller for the linearized model to make use of the forecasted wave elevations.
 
-.. image:: /images/masters/ballast.png
+.. image:: /images/masters/mechanism-updated.JPG
     :width: 500
     :align: center
 
-My work on the implementation of real time wave forecasting for control will be presented at the NAWEA/ WindTECH conference at the University of Delaware in mid-september.
+My work on the implementation of real time wave forecasting for control was presented at the NAWEA/ WindTECH conference at the University of Delaware in September 2022.
 
 
 Grilli, S., Guerin, C.-A., & Goldstien, B. (2011). OceanWave Reconstruction Algorithms Based on Spatio-temporal Data Acquired by a Flash LIDAR Camera.
