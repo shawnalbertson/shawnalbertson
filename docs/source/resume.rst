@@ -1,6 +1,8 @@
 Resume
 ======
 
+.. image:: resume.pdf
+    :align: center
 
 .. image:: ../images/albertson.pdf
     :width: 300
