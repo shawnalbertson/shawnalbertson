@@ -3,6 +3,7 @@ Resume
 
 
 .. image:: ../images/albertson.pdf
+    :width: 300
     :align: center
     
     
