@@ -10,13 +10,17 @@ Nice to meet you!
 
 shawnalbertson16@gmail.com
 
-207-975-6336
+**207-975-6336**
 
-Seattle, WA
+**Seattle, WA**
+
+----
 
 As an Ocean Engineer I specialize in mechanical design and systems integration, with deep experience in operation of Slocum Gliders and Iver UUVs. I take full ownership of complex challenges and lead by example through clear communication, motivating those around me, and driving teams toward their goals with purpose and efficiency.
 
 After completing my masters degree in 2023, I joined the team at the University of Washington Applied Physics Lab (UW-APL). Here, I have been immersed in the world of underwater gliders and autonomous vehicles, where strong attention to detail and respect for the unforgiving ocean environment have been crucial to my success. I have employed my foundation as a mechanical engineer to modify and improve existing glider capabilities, all while deepening my skills in systems thinking through electrical and software integration. I am a certified vessel operator at UW-APL, allowing me to not only independently tackle engineering problems but also direct and pilot the vessel operations required to test our integrations.
+
+----
 
 **M.S. Ocean Engineering**, University of Rhode Island, *2023*
 
