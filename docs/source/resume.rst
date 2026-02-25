@@ -1,7 +1,7 @@
 Resume
 ======
 
-:download:`LINK TO PDF <albertson.pdf>`
+:download:`DOWNLOAD PDF <albertson.pdf>`
 
 .. image:: albertson.png
     :align: center
