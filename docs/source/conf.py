@@ -18,11 +18,11 @@
 # -- Project information -----------------------------------------------------
 
 project = 'shawnalbertson'
-copyright = '2022, Shawn Albertson'
+copyright = '2026, Shawn Albertson'
 author = 'Shawn Albertson'
 
 # The full version, including alpha/beta/rc tags
-release = '0.1'
+release = '1.0'
 
 
 # -- General configuration ---------------------------------------------------
